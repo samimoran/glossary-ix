@@ -1,0 +1,19 @@
+.statustext{
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1)
+<<<<<<< HEAD
+            progid:DXImageTransform.Microsoft.BasicImage(opacity=.3);       
+    width: 50%;
+    height: 50%;
+    right:0px;
+=======
+            progid:DXImageTransform.Microsoft.BasicImage(opacity=.5);  
+    width: 100%;
+    height: 30px;
+    right: -5px;
+    /* left: 280px; */ /* change to -12px; when sidebar is collapsed */
+>>>>>>> 7d916daf0dc33b6c5d9f8ab53baa0ce4302cc993
+}
+
+body #content{                      
+    padding-top: 136px;
+}
