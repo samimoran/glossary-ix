@@ -1,8 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-
   <groupId>com.rackspace.cloud.api</groupId>
-  <artifactId>rc-glossary</artifactId>
+  <artifactId>glossary</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>Rackspace Glossary</name>
@@ -28,33 +27,4 @@
       </pluginRepositories>
     </profile>
   </profiles>
-  <build>
-    <plugins>
-      <plugin>
-	<groupId>org.apache.maven.plugins</groupId>
-	<artifactId>maven-assembly-plugin</artifactId>
-	<version>2.2-beta-1</version>
-	<!-- <configuration> -->
-	<!--   <appendAssemblyId>true</appendAssemblyId> -->
-	<!--   <descriptorRefs> -->
-	<!--     <descriptorRef>jar-with-dependencies</descriptorRef> -->
-	<!--   </descriptorRefs> -->
-	<!-- </configuration> -->
-	<executions>
-	  <execution>
-	    <id>make glossary resources</id>
-	    <goals>
-	      <goal>single</goal>
-	    </goals>
-	    <phase>package</phase>
-	    <configuration>
-	      <descriptors>
-		<descriptor>${project.basedir}/assembly.xml</descriptor>
-	      </descriptors>
-	    </configuration>
-	  </execution>
-	</executions>
-      </plugin>
-    </plugins>
-  </build>
 </project>
