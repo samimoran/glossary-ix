@@ -56,4 +56,41 @@
   <!--     </resource> -->
   <!--   </resources> -->
   <!-- </build> -->
+
+  <build>
+    <plugins>
+      <plugin>
+	<groupId>com.rackspace.cloud.api</groupId>
+	<artifactId>clouddocs-maven-plugin</artifactId>
+	<version>1.0.8-SNAPSHOT</version>
+	<executions>
+	  <execution>
+	    <goals>
+ 	      <goal>generate-pdf</goal>
+	      <goal>generate-webhelp</goal>
+	    </goals>
+	    <phase>generate-sources</phase>
+	  </execution>
+	</executions>
+	<configuration>
+	  <xincludeSupported>true</xincludeSupported>
+	  <sourceDirectory>src/main/resources</sourceDirectory>
+	  <includes>rackspace-glossary.xml</includes>	  
+	  <glossaryCollection>src/main/resources/glossary.xml</glossaryCollection>
+	  <canonicalUrlBase>http://docs-beta.rackspace.com/rackspace-glossary/content</canonicalUrlBase>
+	  <pdfUrl>rackspace-glossary.pdf</pdfUrl>
+	  <enableDisqus>intranet</enableDisqus>
+	  <feedbackEmail>david.cramer@rackspace.com</feedbackEmail>	  
+	  <branding>rackspace</branding>
+	  <chapterAutolabel>0</chapterAutolabel>
+	  <postProcess>
+	    <copy 
+		file="target/docbkx/pdf/rackspace-glossary.pdf" 
+		tofile="target/docbkx/webhelp/rackspace-glossary/content/rackspace-glossary.pdf"
+		failonerror="false"/>
+	  </postProcess>
+	</configuration>
+      </plugin>
+    </plugins>
+  </build>
 </project>
