@@ -27,4 +27,33 @@
       </pluginRepositories>
     </profile>
   </profiles>
+  
+  <scm>
+    <connection>scm:git:ssh://git@git-n01.rcloudtech.rackspacecloud.com/rs-doc-glossary.git</connection>
+  </scm>
+  
+  <distributionManagement>
+    <repository>
+      <id>releases.maven.research.rackspacecloud.com</id>
+      
+      <name>Rackspace Cloud Research Releases</name>
+      <url>http://maven.research.rackspacecloud.com/content/repositories/releases/</url>
+    </repository>
+    
+    <snapshotRepository>
+      <id>snapshots.maven.research.rackspacecloud.com</id>
+      
+      <name>Rackspace Cloud Research Snapshots</name>
+      <url>http://maven.research.rackspacecloud.com/content/repositories/snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
+
+  <!-- This is not necessary if all your docs are in src/main/resources -->
+  <!-- <build> -->
+  <!--   <resources> -->
+  <!--     <resource> -->
+  <!--       <directory>src/docbkx</directory> -->
+  <!--     </resource> -->
+  <!--   </resources> -->
+  <!-- </build> -->
 </project>
