@@ -174,7 +174,7 @@
             <glossterm>Cookie</glossterm>
             <glossdef>
                 <para>Information that web pages save and send back as a way to recognize a user so
-                    that on succeeding visits, the users are easily recognized.</para>
+                    that on succeeding visits, the users are recognized.</para>
             </glossdef>
         </glossentry>
         <glossentry>
