@@ -24,13 +24,13 @@
         <glossentry>
             <glossterm>API</glossterm>
             <glossdef>
-                <para>Stands for Application Programming Interface. An API allows independent programmers to develop newly created application services, using an open application.</para>
+                <para>Application Programming Interface. An API allows independent programmers to develop newly created application services, using an open application.</para>
             </glossdef>
         </glossentry>
         <glossentry>
             <glossterm>Apache</glossterm>
             <glossdef>
-                <para>The most common web server software presently being used on the internet.</para>
+                <para>The most common web server software presently being used on the Internet.</para>
             </glossdef>
         </glossentry>
         <glossentry>
@@ -49,9 +49,9 @@
         <glossentry>
             <glossterm>ASPs</glossterm>
             <glossdef>
-                <para>An abbreviation for Application Service Providers. These are companies that
+                <para>Application Service Providers. These are companies that
                         rent specialized applications that help businesses and organizations provide
-                        additional services with less cost.</para>
+                        additional services at lower cost.</para>
             </glossdef>
         </glossentry>
         <glossentry>
@@ -65,7 +65,7 @@
     <glossdiv>
         <title>B</title>
         <glossentry>
-            <glossterm>Backup Schedule</glossterm>
+            <glossterm>backup schedule</glossterm>
             <glossdef>
                 <para>
                     A backup schedule can be defined to create server
@@ -75,7 +75,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Bandwidth</glossterm>
+            <glossterm>bandwidth</glossterm>
             <glossdef>
                 <para>The amount of available data used by communication resources such as the
                     Internet. It refers the amount of data that is used to download things or the
@@ -83,28 +83,28 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Binary</glossterm>
+            <glossterm>binary</glossterm>
             <glossdef>
                 <para>Information that consists solely of ones and zeroes, which is the language of
                     computers.</para>
             </glossdef>
         </glossentry>
             <glossentry>
-                <glossterm>Bit</glossterm>
+                <glossterm>bit</glossterm>
                 <glossdef>
                     <para>Is a single digit number that’s in base of 2 (either a zero or one).
                         Bandwidth usage is measured in bits-per-second.</para>
                 </glossdef>
             </glossentry>
         <glossentry>
-            <glossterm>Bit Torrent</glossterm>
+            <glossterm>bit torrent</glossterm>
             <glossdef>
                 <para>A peer-to-peer system that legally shares files such as legal software
                     updates, movies and other resources.</para>
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Blog</glossterm>
+            <glossterm>blog</glossterm>
             <glossdef>
                 <para>Refers to an online journal. Blogs can be either personal or professional in
                     tone.</para>
@@ -118,14 +118,14 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Browser</glossterm>
+            <glossterm>browser</glossterm>
             <glossdef>
                 <para>Any client software that allows a computer or device to access the Internet
                     (Microsoft Internet Explorer, Mozilla Firefox, Google Chrome, etc…).</para>
             </glossdef>
         </glossentry>
         <glossentry>
-                <glossterm>Byte</glossterm>
+                <glossterm>byte</glossterm>
                 <glossdef>
                     <para>Set of bits that make up a single character there are usually 8 bits to a
                         byte.</para>
@@ -149,21 +149,21 @@
                 </glossdef>
             </glossentry>
         <glossentry>
-            <glossterm>Cloud Computing</glossterm>
+            <glossterm>cloud computing</glossterm>
             <glossdef>
                 <para>Cloud computing is a set of pooled computing resources delivered over the
                     Internet.</para>
             </glossdef>
         </glossentry>
             <glossentry>
-                <glossterm>Cloudware</glossterm>
+                <glossterm>cloudware</glossterm>
                 <glossdef>
                     <para>Refers to software that only exists on the Internet. There is no material
                         product that resides on your computer or disks.</para>
                 </glossdef>
             </glossentry>
         <glossentry>
-            <glossterm>Connection Logging</glossterm>
+            <glossterm>connection logging</glossterm>
             <glossdef>
                 <para>The connection logging feature allows logs to be delivered to a Cloud Files
                     account every hour. For HTTP-based protocol traffic, these are Apache-style access
@@ -171,14 +171,14 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Cookie</glossterm>
+            <glossterm>cookie</glossterm>
             <glossdef>
                 <para>Information that web pages save and send back as a way to recognize a user so
                     that on succeeding visits, the users are recognized.</para>
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Cyberspace</glossterm>
+            <glossterm>cyberspace</glossterm>
             <glossdef>
                 <para>Refers to the Internet and all the information stored on it.</para>
             </glossdef>
@@ -202,7 +202,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Download</glossterm>
+            <glossterm>download</glossterm>
             <glossdef>
                 <para>The transfer of data – usually in the form of files – from one computer to
                     another.</para>
@@ -229,7 +229,7 @@
                 to the domain.</para></glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Domain</glossterm>
+            <glossterm>domain</glossterm>
             <glossdef>
                 <para>Is a name that identifies a web site and separates it from other sites. Often,
                     the domain name will have 2 or more parts that are separated by dots (i.e.
@@ -248,7 +248,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Domain Owner</glossterm>
+            <glossterm>domain owner</glossterm>
             <glossdef>
                 <para> Within Rackspace DNS, the account which creates the domain is the domain
                     owner.</para>
@@ -256,7 +256,7 @@
         </glossentry>
        
         <glossentry>
-            <glossterm>Duck</glossterm>
+            <glossterm>duck</glossterm>
             <glossdef>
                 <para>An aquatic bird.</para>
             </glossdef>
@@ -266,7 +266,7 @@
     <glossdiv>
         <title>E</title>
         <glossentry>
-            <glossterm>Email</glossterm>
+            <glossterm>email</glossterm>
             <glossdef>
                 <para>Messages either text or graphical that are sent from one server to another via
                     the internet.</para>
@@ -283,7 +283,7 @@
     <glossdiv>
         <title>F</title>
         <glossentry>
-            <glossterm>Firewall</glossterm>
+            <glossterm>firewall</glossterm>
             <glossdef>
                 <para>Software and hardware that communicate with each other to help protect a
                     computer by separating it into two or more parts on a network, making it more
@@ -298,7 +298,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Flavor</glossterm>
+            <glossterm>flavor</glossterm>
             <glossdef>
                 <para>
                     A flavor is an available hardware configuration for a
@@ -325,7 +325,7 @@
     <glossdiv>
         <title>G</title>
         <glossentry>
-            <glossterm>Gateway</glossterm>
+            <glossterm>gateway</glossterm>
             <glossdef>
                 <para>Hardware or software that translates between two different protocols.</para>
             </glossdef>
@@ -348,14 +348,14 @@
     <glossdiv>
         <title>H</title>
         <glossentry>
-            <glossterm>Hacker</glossterm>
+            <glossterm>hacker</glossterm>
             <glossdef>
                 <para>An intruder who attempts to enter a site for the purpose of causing
                     intentional damage.</para>
             </glossdef>
         </glossentry>
         <glossentry>
-         <glossterm>Health Monitor</glossterm>
+         <glossterm>health monitor</glossterm>
         <glossdef>
             <para>A health monitor is a feature of each load balancer. It is used to determine
                 whether or not a back-end node is usable for processing a request. The load
@@ -363,14 +363,14 @@
         </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Homepage</glossterm>
+            <glossterm>homepage</glossterm>
             <glossdef>
                 <para>This phrase either refers to the first page browser loads when it opens or the
                     main page for any website.</para>
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Host</glossterm>
+            <glossterm>host</glossterm>
             <glossdef>
                 <para>A computer and/or network facility that stores data that is available to be
                     accessed by other computers.</para>
@@ -391,7 +391,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Hypertext</glossterm>
+            <glossterm>hypertext</glossterm>
             <glossdef>
                 <para>Any kind of text that contains a link to some other site, commonly found in
                     documents where clicking on a word or words opens up a different web
@@ -409,7 +409,7 @@
     <glossdiv>
         <title>I</title>
        <glossentry>
-            <glossterm>Image</glossterm>
+            <glossterm>image</glossterm>
             <glossdef>
                 <para>
                     An image is a collection of files used to create or
@@ -423,7 +423,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>IP Address</glossterm>
+            <glossterm>IP address</glossterm>
             <glossdef>
                 <para>Number that’s unique to every computer system on the Internet.</para>
             </glossdef>
@@ -480,7 +480,7 @@
     <glossdiv>
         <title>L</title>
         <glossentry>
-            <glossterm>Load Balancer</glossterm>
+            <glossterm>load balancer</glossterm>
             <glossdef>
                 <para>A load balancer is a logical device which belongs to a cloud account. It is used
                     to distribute workloads between multiple back-end systems or services, based on the
@@ -509,7 +509,7 @@
     <glossdiv>
         <title>N</title>
         <glossentry>
-            <glossterm>Node</glossterm>
+            <glossterm>node</glossterm>
             <glossdef>
                 <para>A node is a back-end device providing a service on a specified IP and port.</para>
             </glossdef>
@@ -553,7 +553,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Reboot</glossterm>
+            <glossterm>reboot</glossterm>
             <glossdef>
                 <para>
                     The reboot function allows for either a soft or hard
@@ -565,7 +565,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Rebuild</glossterm>
+            <glossterm>rebuild</glossterm>
             <glossdef>
                 <para>
                     
@@ -576,7 +576,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Record</glossterm>
+            <glossterm>record</glossterm>
             <glossdef>
                 <para> A DNS record belongs to a particular domain and is used to specify information
                     about the domain. There are several types of DNS records. Each record type contains
@@ -586,7 +586,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Resize</glossterm>
+            <glossterm>resize</glossterm>
             <glossdef>
                 <para>
                     The resize function converts an existing server to a
@@ -614,7 +614,7 @@
     <glossdiv>
         <title>S</title>
         <glossentry>
-            <glossterm>Server</glossterm>
+            <glossterm>server</glossterm>
             <glossdef>
                 <para>Computer that provides explicit services to the client software running on
                     that system, often managing a variety of computer operations.</para>
@@ -626,7 +626,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Session Persistence</glossterm>
+            <glossterm>session persistence</glossterm>
             <glossdef>
                 <para>Session persistence is a feature of the load balancing service. It attempts to
                     force subsequent connections to a service to be redirected to the same node as long
@@ -634,7 +634,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Shared IP Address</glossterm>
+            <glossterm>shared IP address</glossterm>
             <glossdef>
                 <para>
                     Public IP addresses can be shared across multiple
@@ -651,7 +651,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Shared IP Group</glossterm>
+            <glossterm>shared IP group</glossterm>
             <glossdef>
                 <para>
                     A shared IP group is a collection of servers that can
@@ -666,7 +666,7 @@
         </glossentry>
         
         <glossentry>
-            <glossterm>Social Networking</glossterm>
+            <glossterm>social networking</glossterm>
             <glossdef>
                 <para>Joining groups and websites where you will find people with similar interests.
                     Individuals and businesses use social networks such as Facebook, Myspace and
@@ -712,7 +712,7 @@
     <glossdiv>
         <title>V</title>
         <glossentry>
-            <glossterm>Virtual IP</glossterm>
+            <glossterm>virtual IP</glossterm>
             <glossdef>
                 <para>A virtual IP is an Internet Protocol (IP) address configured on the load balancer
                     for use by clients connecting to a service that is load balanced. Incoming
@@ -721,7 +721,7 @@
             </glossdef>
         </glossentry>
         <glossentry>
-            <glossterm>Virus</glossterm>
+            <glossterm>virus</glossterm>
             <glossdef>
                 <para>Harmful piece of computer programming that interferes with normal computer and
                     internet operations.</para>
